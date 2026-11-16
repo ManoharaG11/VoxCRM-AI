@@ -9,16 +9,20 @@ The application combines a modern React frontend, a FastAPI backend and a Postgr
 ## 📸 Application Screenshots
 
 ### Dashboard
-![VoxCRM Dashboard](c:\Users\sathi\OneDrive\Pictures\Screenshots\Screenshot 2026-11-16 221853.png)
+<img width="935" height="536" alt="Screenshot 2026-11-17 005611" src="https://github.com/user-attachments/assets/19824c77-089e-4cbb-926b-500b13b9cf02" />
+
 
 ### AI Voice Agent
-![AI Voice Agent](c:\Users\sathi\OneDrive\Pictures\Screenshots\Screenshot 2026-11-17 011501.png)
+<img width="960" height="564" alt="Screenshot 2026-11-17 011501" src="https://github.com/user-attachments/assets/faf509ed-ff6f-4825-927f-c4082641fcbe" />
+
 
 ### Lead Management
-![Lead Management](c:\Users\sathi\OneDrive\Pictures\Screenshots\Screenshot 2026-11-17 011540.png)
+<img width="960" height="600" alt="Screenshot 2026-11-17 011540" src="https://github.com/user-attachments/assets/40663b7e-9e68-49e1-8169-a1a642090937" />
+
 
 ### Customer Management
-![Customer Management](c:\Users\sathi\OneDrive\Pictures\Screenshots\Screenshot 2026-11-17 011555.png)
+<img width="960" height="600" alt="Screenshot 2026-11-17 011555" src="https://github.com/user-attachments/assets/35bf1e13-4175-40f3-8b28-537adfea0c05" />
+
 
 ## 🚀 Key Features
 
